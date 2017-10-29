@@ -16,17 +16,10 @@ table {
    height: 600px;
 }
 tr{
-   heigth: 200px;
-   width: 900px;
-   margin: 0px;
-   padding; 0px;
+   
 }
 td {
    border: 1px solid white;
-   width: 200px;
-   heigth: 200px;
-   margin: 0px;
-   padding: 0px;
 }
 .table {
    border: 2px solid white;
