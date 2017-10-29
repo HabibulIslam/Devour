@@ -14,6 +14,10 @@ body {
 table {
    
 }
+tr{
+   heigth: 300px;
+   width: 1800px;
+}
 td {
    border: 1px solid white;
    width: 300px;
