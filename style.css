@@ -37,6 +37,7 @@ ul {
 }
 .navigation {
    text-align: center;
+   margin-bottom: 15px;
 }
 .navigation li {
    display: inline-block;
