@@ -15,6 +15,7 @@ table {
    width: 1500px;
    height: 600px;
    border: 1px solid red;
+   border-collaps: border;
 }
 tr{
    border: 1px solid blue;
