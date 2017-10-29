@@ -37,9 +37,10 @@ ul {
 }
 .navigation {
    border: 6px solid red;
+   text-align: center;
 }
 .navigation li {
-   display: block;
+   display: inline-block;
 }
 .navigation li a {
    color: yellow;
