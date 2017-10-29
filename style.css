@@ -39,4 +39,6 @@ td {
 .navigation li a {
    color: yellow;
    text-decoration: none;
+   font-size: 24px;
+   padding: 0px 30px;
 }
