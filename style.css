@@ -12,8 +12,8 @@ body {
    color: white;
 }
 table {
-   width: 1800px;
-   height: 900px;
+   width: 95%;
+   height: 95%;
    overflow: scroll;
 }
 tr{
