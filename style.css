@@ -28,6 +28,6 @@ td {
 }
 .table {
    border: 2px solid white;
-   width: 99%;
-   height: 75%;
+   height: 900px;
+   overflow: scroll;
 }
