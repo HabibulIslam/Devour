@@ -13,8 +13,7 @@ body {
 }
 .backgroundimage {
    background-image: url("images/DevourLogo.jpg");
-   border: 2px solid black;
-   opacity: 0.5;
+   border: 0px;
 }
 table {
    width: 1500px;
