@@ -13,7 +13,6 @@ body {
 }
 table {
    width: 1500px;
-   height: 600px;
    border: 1px solid red;
    border-collapse: collapse;
 }
@@ -21,6 +20,8 @@ tr{
    border: 1px solid blue;
 }
 td {
+   width: 40px;
+   height: 40px;
    border: 1px solid white;
 }
 .table {
