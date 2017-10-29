@@ -40,7 +40,7 @@ ul {
 }
 .navigation li {
    display: block;
-   color: yellow;
-   border: 2px solid orange;
 }
-
+.navigation li a {
+   color: yellow;
+}
