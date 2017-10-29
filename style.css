@@ -29,3 +29,10 @@ td {
    overflow-y: scroll;
    overflow-x: hidden;
 }
+.navigation {
+   background-color:blue;
+   border: 1px solid red;
+   display: inline;
+
+}
+
