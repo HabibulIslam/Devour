@@ -29,17 +29,16 @@ td {
    overflow-y: scroll;
    overflow-x: hidden;
 }
-.navigation {
-   border: 6px solid red;
-}
 ul {
    list-style-type: none;
    margin: 0px;
    padding: 0px;
    border: 2px solid blue;
 }
-
-li a {
+.navigation {
+   border: 6px solid red;
+}
+.navigation li {
    display: block;
    color: yellow;
    border: 2px solid orange;
