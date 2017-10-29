@@ -9,7 +9,8 @@ h1 {
 
 body {
    background-color: black;
-   background-image: url("/images/DevourLogo.jpg")
+   background-image: url("images/DevourLogo.jpg")
+   
    color: white;
 }
 table {
