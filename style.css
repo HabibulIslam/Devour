@@ -21,7 +21,7 @@ td {
    height: 250px;
    border: 1px solid white;
 }
-.table {
+.body {
    border: 2px solid blue;
    height: 600px;
    overflow-y: scroll;
