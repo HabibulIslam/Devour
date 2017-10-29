@@ -23,7 +23,7 @@ td {
    border: 1px solid white;
 }
 .table {
-   align: center;
+   text-align: center;
    border: 2px solid blue;
    height: 600px;
    width: 1540px;
