@@ -38,6 +38,7 @@ ul {
 .navigation {
    border: 6px solid red;
    text-align: center;
+   text-decoration: none;
 }
 .navigation li {
    display: inline-block;
