@@ -14,7 +14,6 @@ body {
 table {
    width: 1500px;
    height: 600px;
-   overflow: scroll;
 }
 tr{
    heigth: 300px;
@@ -29,5 +28,6 @@ td {
 .table {
    border: 2px solid white;
    height: 600px;
-   overflow: scroll;
+   overflow-y: scroll;
+   overflow-x: hidden;
 }
