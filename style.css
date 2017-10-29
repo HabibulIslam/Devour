@@ -32,14 +32,14 @@ td {
 .navigation {
    border: 6px solid red;
 }
-ol {
+ul {
    list-style-type: none;
    margin: 0px;
    padding: 0px;
    border: 2px solid blue;
 }
 
-ol li a {
+li a {
    display: inline-block;
    color: yellow;
    border: 2px solid orange;
