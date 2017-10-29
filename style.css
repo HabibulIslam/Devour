@@ -40,7 +40,7 @@ ul {
 }
 
 li a {
-   display: inline-block;
+   display: block;
    color: yellow;
    border: 2px solid orange;
 }
