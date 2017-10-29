@@ -12,7 +12,9 @@ body {
    color: white;
 }
 table {
-   
+   width: 1800px;
+   height: 900px;
+   overflow: scroll;
 }
 tr{
    heigth: 300px;
