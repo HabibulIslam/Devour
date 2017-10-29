@@ -26,4 +26,6 @@ td {
    heigth: 300px;
    margin: 0px;
 }
-
+.table {
+   border: 2px solid white;
+}
