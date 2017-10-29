@@ -22,10 +22,8 @@ td {
    border: 1px solid white;
 }
 .table {
-   text-align: center;
    border: 2px solid blue;
    height: 600px;
-   width: 1540px;
    overflow-y: scroll;
    overflow-x: hidden;
 }
