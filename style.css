@@ -39,8 +39,8 @@ ol {
    border: 2px solid blue;
 }
 
-li a {
-   display: block;
+ol li a {
+   display: inline-block;
    color: yellow;
    border: 2px solid orange;
 }
