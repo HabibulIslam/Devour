@@ -34,12 +34,14 @@ td {
 }
 ol {
    list-style-type: none;
-   margin: 10px;
-   padding: 10px;
+   margin: 0px;
+   padding: 0px;
+   border: 2px solid blue;
 }
 
 li a {
    display: block;
    color: yellow;
+   border: 2px solid orange;
 }
 
