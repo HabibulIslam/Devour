@@ -31,10 +31,10 @@ td {
 }
 .navigation {
    border: 6px solid red;
-
 }
 ol {
    display: inline-block;
-
+   font-size: 18px;
+   font-weight: bold;
 }
 
