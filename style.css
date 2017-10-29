@@ -14,9 +14,10 @@ body {
 table {
    width: 1500px;
    height: 600px;
+   border: 1px solid red;
 }
 tr{
-   
+   border: 1px solid blue;
 }
 td {
    border: 1px solid white;
