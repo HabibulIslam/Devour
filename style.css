@@ -23,7 +23,10 @@ td {
    border: 1px solid white;
 }
 .table {
+   
+   border: 2px solid blue;
    height: 600px;
+   width: 1500px;
    overflow-y: scroll;
    overflow-x: hidden;
 }
