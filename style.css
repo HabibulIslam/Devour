@@ -13,7 +13,6 @@ body {
 }
 table {
    width: 1500px;
-   border: 1px solid red;
    border-collapse: collapse;
    overflow-y: scroll;
    overflow-x: hidden;
