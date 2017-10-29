@@ -18,11 +18,12 @@ table {
 tr{
    heigth: 300px;
    width: 1800px;
+   margin: 0px;
 }
 td {
    border: 1px solid white;
-   width: 300px;
-   heigth: 300px;
+   width: 200px;
+   heigth: 200px;
    margin: 0px;
 }
 .table {
