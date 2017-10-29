@@ -40,6 +40,7 @@ td {
    color: yellow;
    text-decoration: none;
    font-size: 24px;
-   padding: 0px 30px;
+   padding: 5px 30px;
+   margin: 5px 30px;
    font-weight: bold;
 }
