@@ -19,6 +19,7 @@ table {
 }
 td {
    height: 250px;
+   width: 250px;
    border: 1px solid white;
    padding: 10px;
 }
