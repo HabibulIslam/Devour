@@ -78,12 +78,12 @@ td {
    height: 480px;
 }
 .plant {
-   display: inline-block;
+   display: inline;
    padding: 0px;
    margin: 0px;
 }
 .hometext {
-   display: inline-block;
+   display: inline;
    height: 420px;
    padding: 0px 0px 200px 0px;
    margin: 0px 0px 200px 0px;
