@@ -86,6 +86,7 @@ td {
    display: inline-block;
    height: 480px;
    padding: 0px;
+   margin: 0px 0px 470px 0px;
 }
 .hometext-header {
    display: block;
