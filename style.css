@@ -79,15 +79,24 @@ td {
 }
 .plant {
    display: inline-block;
+   padding: 0px;
+   margin: 0px;
 }
 .hometext {
    display: inline-block;
+   height: 480px;
+   padding: 0px;
+   margin: 0px;
 }
 .hometext-header {
    display: block;
+   padding: 0px;
+   margin: 0px;
 }
 .hometext-paragraph {
    display: block;
+   padding: 0px;
+   margin: 0px;
 }
 .contact {
    display: block;
