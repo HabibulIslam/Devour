@@ -77,10 +77,10 @@ td {
    border: 3px solid white;
 }
 .plant {
-   
+   display: inline-block;
 }
 .hometext {
-   
+   display: inline-block;
 }
 .contact {
    display: block;
