@@ -57,3 +57,12 @@ td {
 .galleryitem {
    margin: 3px;
 }
+.first {
+   display: block;
+}
+.homestuff {
+   display: block;
+}
+.contact {
+   display: block;
+}
