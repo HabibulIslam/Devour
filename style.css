@@ -33,6 +33,7 @@ td {
    text-align: center;
    margin-bottom: 15px;
    padding: 0px;
+   border: 1px solid white;
 }
 .navigation li {
    display: inline-block;
