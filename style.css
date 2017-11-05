@@ -85,9 +85,10 @@ td {
 .hometext {
    display: inline;
    height: 420px;
-   width: 700px;
+   width: 400px;
    padding: 0px;
    margin: 0px;
+   float: right;
 }
 .hometext-header {
    display: block;
