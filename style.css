@@ -48,6 +48,10 @@ td {
 .navigation li a {
    padding: 0px 40px;
    margin: 0px 40px;
+   float: right;
+}
+.logo {
+   float: left;
 }
 .galleryitem {
    margin: 3px;
