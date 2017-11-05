@@ -34,7 +34,7 @@ td {
 .navigation {
    list-style-type: none;
    text-align: center;
-   margin-bottom: 15px;
+   margin: 0px 0px 15px 0px;
    padding: 0px;
    border: 1px solid blue;
    background-color: white;
