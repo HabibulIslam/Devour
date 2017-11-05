@@ -36,8 +36,10 @@ td {
    text-align: center;
    margin: 0px 0px 15px 0px;
    padding: 0px;
-   border: 1px solid blue;
-   background-color: white;
+   border-bottom-color: white;
+   border-bottom-width: 3px;
+   border-bottom-style: solid;
+   background-color: black;
    z-index: 1;
 }
 .navigation li {
