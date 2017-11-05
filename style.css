@@ -10,6 +10,7 @@ body {
    background-color: black;
    color: white;
    border: 0px;
+   z-index: 0;
 }
 table {
    width: 1500px;
@@ -33,7 +34,9 @@ td {
    text-align: center;
    margin-bottom: 15px;
    padding: 0px;
-   border: 1px solid white;
+   border: 1px solid blue;
+   background-color: white;
+   z-index: 1;
 }
 .navigation li {
    display: inline-block;
