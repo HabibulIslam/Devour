@@ -85,6 +85,7 @@ td {
 .hometext {
    display: inline;
    height: 420px;
+   width: 700px;
    padding: 0px;
    margin: 0px;
 }
