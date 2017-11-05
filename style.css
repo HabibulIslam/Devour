@@ -79,6 +79,7 @@ td {
 .contact {
    display: block;
    border: 3px solid white;
+   padding: 0px;
 }
 .homestuff-inline-block {
    display: inline-block;
