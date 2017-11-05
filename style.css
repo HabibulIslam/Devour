@@ -81,6 +81,7 @@ td {
    display: inline;
    padding: 0px;
    margin: 0px;
+   float: left;
 }
 .hometext {
    display: inline;
