@@ -34,7 +34,7 @@ td {
 .navigation {
    list-style-type: none;
    text-align: center;
-   margin: 0px 0px 15px 0px;
+   margin: 0px;
    padding: 0px;
    border-bottom-color: white;
    border-bottom-width: 3px;
@@ -46,12 +46,8 @@ td {
    display: inline-block;
 }
 .navigation li a {
-   color: yellow;
-   text-decoration: none;
-   font-size: 24px;
-   padding: 5px 30px;
-   margin: 5px 30px;
-   font-weight: bold;
+   padding: 0px 40px;
+   margin: 0px 40px;
 }
 .galleryitem {
    margin: 3px;
