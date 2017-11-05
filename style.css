@@ -47,6 +47,8 @@ td {
 .navigation li a {
    padding: 0px 40px;
    margin: 0px 40px;
+}
+.navigation li a img {
    float: right;
 }
 .logo {
