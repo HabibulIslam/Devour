@@ -8,6 +8,8 @@ h1 {
 body {
    background-image: url("images/DevourLogo.jpg");
    background-color: black;
+   margin: 0px;
+   padding: 0px;
    color: white;
    border: 0px;
    z-index: 0;
