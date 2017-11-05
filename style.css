@@ -45,3 +45,6 @@ td {
    margin: 5px 30px;
    font-weight: bold;
 }
+img {
+   border: 1px solid red;
+}
