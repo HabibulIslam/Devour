@@ -80,3 +80,9 @@ td {
    display: block;
    border: 3px solid white;
 }
+.homestuff-inline-block {
+   display: inline-block;
+}
+.contact-inline-block {
+   display: inline-block;
+}
