@@ -24,8 +24,8 @@ td {
    border: 1px solid white;
    padding: 9px;
 }
-.body {
-   height: 600px;
+.tablebox {
+   height: 480px;
    overflow-y: scroll;
    overflow-x: hidden;
 }
