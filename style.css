@@ -88,8 +88,9 @@ td {
    height: 480px;
    width: 800px;
    padding: 0px;
-   margin: 0px 0px 0px 0px;
+   margin: 0px 20px 0px 0px;
    float: left;
+   text-align: center;
 }
 .hometext-header {
    display: block;
