@@ -73,18 +73,18 @@ td {
    padding: 0px;
    height: 75px
 }
-.homestuff {
+.middle {
    display: block;
    margin: 0px 0px 30px 0px;
    height: 480px;
 }
-.plant {
+.middleleft {
    display: inline;
    padding: 0px;
    margin: 0px;
    float: left;
 }
-.hometext {
+.middleright {
    display: inline;
    height: 200px;
    width: 600px;
