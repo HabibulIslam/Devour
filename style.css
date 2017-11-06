@@ -1,6 +1,5 @@
 * {
    font-family: Arial;
-   border: 1px solid red
 } 
 h1 {
    color: white;
@@ -11,7 +10,6 @@ body {
    margin: 0px;
    padding: 0px;
    color: white;
-   border: 0px;
    z-index: 0;
 }
 table {
@@ -41,6 +39,11 @@ td {
    background-color: black;
    z-index: 1;
    height: 75px;
+}
+.navigation ul {
+   height: 75px;
+   margin: 0px;
+   padding 0px;
 }
 .navigation li {
    display: inline-block;
