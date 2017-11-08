@@ -107,8 +107,6 @@ td {
 }
 .hometext-paragraph {
    display: block;
-   padding: 0px;
-   margin: 0px;
    text-indent: 2em;
    background-color: black;
    z-index: 1;
