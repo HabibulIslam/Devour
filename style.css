@@ -94,7 +94,7 @@ td {
    margin: 0px auto;
    background-color: black;
    z-index: 1;
-   border: 2px solid blue;
+   border: 1% solid blue;
 }
 .hometext-header {
    display: block;
