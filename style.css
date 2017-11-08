@@ -88,13 +88,13 @@ td {
 }
 .middleright {
    display: inline;
-   padding: 0px 2%;
+   padding: 0px 1em;
    width: 65%;
    height: 100%;
    margin: 0px auto;
    background-color: black;
    z-index: 1;
-   border: 1% solid blue;
+   border: 2px solid blue;
 }
 .hometext-header {
    display: block;
