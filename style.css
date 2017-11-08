@@ -124,4 +124,5 @@ td {
    margin: 5% 20%;
    background-color: black;
    overflow-y: scroll;
+   z-index: 1;
 }
