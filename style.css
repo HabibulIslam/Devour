@@ -91,11 +91,12 @@ td {
    display: inline;
    padding: 0px;
    width: 65%;
-   height: 100%;
-   margin: 0px 3%;
+   height: 99%;
+   margin: 0px 2%;
    background-color: black;
    z-index: 1;
-   border: 2px solid blue;
+   border: 1% solid blue;
+   float: right;
 }
 .hometext-header {
    display: block;
