@@ -121,5 +121,7 @@ td {
 }
 .updates {
    padding: auto;
-   margin: 20px 100px;
+   margin: 5% 20%;
+   background-color: black;
+   overflow-y: scroll;
 }
