@@ -87,15 +87,15 @@ td {
 }
 .middleright {
    display: inline;
-   height: 200px;
-   width: 600px;
    padding: 0px;
-   margin: 0px 20px 0px 0px;
+   height: 100%
+   margin: 0px auto;
    float: left;
    text-align: center;
    background-color: black;
    z-index: 1;
    border: 2px solid blue;
+   overflow-y: scroll;
 }
 .hometext-header {
    display: block;
@@ -105,7 +105,7 @@ td {
 .hometext-paragraph {
    display: block;
    padding: 0px;
-   margin: 0px auto;
+   margin: 0px;
 }
 .contact {
    display: block;
