@@ -80,6 +80,7 @@ td {
    display: block;
    margin: 0px 0px 30px 0px;
    height: 480px;
+   width: 100%;
 }
 .middleleft {
    display: inline;
@@ -89,10 +90,8 @@ td {
 }
 .middleright {
    display: inline;
-   padding: 0px;
-   width: 65%;
-   height: 99%;
-   margin: 0px 2%;
+   width: 60%;
+   height: 100%;
    background-color: black;
    z-index: 1;
    border: 1% solid blue;
@@ -109,6 +108,8 @@ td {
    text-indent: 2em;
    background-color: black;
    z-index: 1;
+   margin: 0px;
+   padding: 0px;
 }
 .contact {
    display: block;
