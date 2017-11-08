@@ -96,6 +96,7 @@ td {
    z-index: 1;
    border: 1% solid blue;
    float: right;
+   margin: 0px 5%;
 }
 .hometext-header {
    display: block;
