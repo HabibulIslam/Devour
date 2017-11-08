@@ -98,7 +98,6 @@ td {
    background-color: black;
    z-index: 1;
    border: 2px solid blue;
-   overflow-y: scroll;
 }
 .hometext-header {
    display: block;
