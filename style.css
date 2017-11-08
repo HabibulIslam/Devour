@@ -105,7 +105,7 @@ td {
 .hometext-paragraph {
    display: block;
    padding: 0px;
-   margin: 0px;
+   margin: 0px auto;
 }
 .contact {
    display: block;
