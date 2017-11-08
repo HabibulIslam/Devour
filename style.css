@@ -94,7 +94,7 @@ td {
    height: 100%;
    margin: 0px auto;
    background-color: black;
-   z-index: 2;
+   z-index: 1;
    border: 2px solid blue;
 }
 .hometext-header {
@@ -102,12 +102,16 @@ td {
    padding: 0px;
    margin: 0px;
    text-align: center;
+   background-color: black;
+   z-index: 1;
 }
 .hometext-paragraph {
    display: block;
    padding: 0px;
    margin: 0px;
    text-indent: 2em;
+   background-color: black;
+   z-index: 1;
 }
 .contact {
    display: block;
@@ -134,4 +138,6 @@ td {
 }
 .signoff {
    text-align: right;
+   background-color: black;
+   z-index: 1;
 }
