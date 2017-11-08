@@ -92,8 +92,7 @@ td {
    padding: 0px;
    width: 70%;
    height: 100%;
-   margin: 0px;
-   float: right;
+   margin: 0px auto;
    background-color: black;
    z-index: 1;
    border: 2px solid blue;
@@ -102,11 +101,13 @@ td {
    display: block;
    padding: 0px;
    margin: 0px;
+   text-align: center;
 }
 .hometext-paragraph {
    display: block;
    padding: 0px;
    margin: 0px;
+   text-indent: 2em;
 }
 .contact {
    display: block;
