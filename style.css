@@ -126,3 +126,7 @@ td {
    overflow-y: scroll;
    z-index: 1;
 }
+.updates p {
+   margin: 0px;
+   padding: 0px;
+}
