@@ -83,13 +83,13 @@ td {
    width: 25%;
    height: 100%;
    padding: 0px;
-   margin: 0px 1% 0px 0px;
+   margin: 0px;
    float: left;
 }
 .middleright {
    display: inline;
-   padding: 0px;
-   width: 70%;
+   padding: 0px 2%;
+   width: 65%;
    height: 100%;
    margin: 0px auto;
    background-color: black;
