@@ -90,7 +90,7 @@ td {
 }
 .middleright {
    display: inline;
-   width: 60%;
+   width: 65%;
    height: 100%;
    background-color: black;
    z-index: 1;
@@ -108,7 +108,7 @@ td {
    text-indent: 2em;
    background-color: black;
    z-index: 1;
-   margin: 0px auto;
+   margin: 0px;
    padding: 0px;
 }
 .contact {
