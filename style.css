@@ -81,6 +81,8 @@ td {
 }
 .middleleft {
    display: inline;
+   width: 25%;
+   height: 100%;
    padding: 0px;
    margin: 0px;
    float: left;
@@ -88,6 +90,7 @@ td {
 .middleright {
    display: inline;
    padding: 0px;
+   width: 75%;
    height: 100%;
    margin: 0px;
    float: right;
