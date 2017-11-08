@@ -108,7 +108,7 @@ td {
    text-indent: 2em;
    background-color: black;
    z-index: 1;
-   margin: 0px;
+   margin: 0px auto;
    padding: 0px;
 }
 .contact {
