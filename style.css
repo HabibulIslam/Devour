@@ -99,8 +99,6 @@ td {
 }
 .hometext-header {
    display: block;
-   padding: 0px;
-   margin: 0px;
    text-align: center;
    background-color: black;
    z-index: 1;
