@@ -34,6 +34,7 @@ td {
    padding: 0px;
    height: 11%;
    width: 100%;
+   border: 2px solid green;
 }
 .middle {
    display: block;
@@ -41,10 +42,11 @@ td {
    padding: 0%;
    height: 69%;
    width: 100%;
+   border: 2px solid blue;
 }
 .contact {
    display: block;
-   border-top: 0.2em solid white;
+   border-top: 0.2em solid red;
    margin: 0%;
    padding: 0px;
    height: 10%;
