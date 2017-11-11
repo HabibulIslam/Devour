@@ -10,7 +10,7 @@ body {
    padding: 0px;
    color: white;
    z-index: 0;
-   height: 500px;
+   height: auto;
 }
 table {
    width: 1500px;
