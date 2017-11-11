@@ -3,6 +3,9 @@
    font-family: Arial;
    border: 1px solid white;
 } 
+html {
+   height: 100%;
+}
 body {
    background-image: url("images/DevourLogo.jpg");
    background-color: black;
@@ -10,7 +13,7 @@ body {
    padding: 0px;
    color: white;
    z-index: 0;
-   height: auto;
+   height: 100%;
 }
 table {
    width: 1500px;
