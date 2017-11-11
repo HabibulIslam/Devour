@@ -1,7 +1,6 @@
 /*Affects All*//*-----------------------------------------------------------------------------------------------------------*/
 * {
    font-family: Arial;
-   border: white solid 1px;
 } 
 body {
    background-image: url("images/DevourLogo.jpg");
@@ -35,6 +34,7 @@ td {
    height: 11%;
    width: 100%;
    border: 2px solid green;
+   float: clear;
 }
 .middle {
    display: block;
@@ -43,6 +43,7 @@ td {
    height: 69%;
    width: 100%;
    border: 2px solid blue;
+   float: clear;
 }
 .contact {
    display: block;
@@ -51,6 +52,7 @@ td {
    padding: 0px;
    height: 10%;
    width:100%;
+   float: clear;
 }
 /*Structure*/
    /*-----------------------------------------------------------------------------------------------------------*/
