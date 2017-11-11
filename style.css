@@ -107,7 +107,6 @@ td {
    height: 100%;
    background-color: black;
    z-index: 1;
-   border: 1% solid blue;
    float: right;
    margin: 0px 5% 0px 0px;
 }
@@ -134,10 +133,19 @@ td {
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Team Tab*/
 .middleleftteam {
-   
+   display: inline;
+   width: 25%;
+   height: 100%;
+   float: left;
 }
 .middlerightteam {
-   
+   display: inline;
+   width: 65%;
+   height: 100%;
+   background-color: black;
+   z-index: 1;
+   float: right;
+   margin: 0px 5% 0px 0px;
 }
 /*Team Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
