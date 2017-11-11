@@ -66,16 +66,15 @@ td {
    border-bottom-style: solid;
    background-color: black;
    z-index: 1;
-   height: 75px;
 }
 .navigation ul {
-   height: 75px;
+   height: 100%;
    margin: 0px;
    padding 0px;
 }
 .navigation li {
    display: inline-block;
-   margin: 0px 75px;
+   margin: 0px 5%;
    padding: 0px;
 }
 .navigation li a {
@@ -109,6 +108,8 @@ td {
    width: 25%;
    height: 100%;
    float: left;
+   margin: 0px;
+   padding: 0px;
 }
 .middlerighthome {
    display: inline;
