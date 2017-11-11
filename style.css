@@ -95,13 +95,13 @@ td {
 /*Contact Stuff*/
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Home Tab*/
-.middleleft {
+.middlelefthome {
    display: inline;
    width: 25%;
    height: 100%;
    float: left;
 }
-.middleright {
+.middlerighthome {
    display: inline;
    width: 65%;
    height: 100%;
