@@ -1,3 +1,4 @@
+/*Affects All*//*-----------------------------------------------------------------------------------------------------------*/
 * {
    font-family: Arial;
 } 
@@ -22,12 +23,30 @@ td {
    width: 250px;
    border: 1px solid white;
    padding: 9px;
+/*Affects All*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+/*Structure*/
+.first {
+   display: block;
+   margin: 0px 0px 30px 0px;
+   padding: 0px;
+   height: 75px
 }
-.tablebox {
+.middle {
+   display: block;
+   margin: 0px 0px 30px 0px;
    height: 480px;
-   overflow-y: scroll;
-   overflow-x: hidden;
+   width: 100%;
 }
+.contact {
+   display: block;
+   border-top: 3px solid white;
+   padding: 0px;
+   height: 50px;
+}
+/*Structure*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+/*Navigation*/
 .navigation {
    list-style-type: none;
    margin: 0px;
@@ -63,21 +82,18 @@ td {
 .logo {
    float: left;
 }
-.galleryitem {
-   margin: 3px;
-}
-.first {
-   display: block;
-   margin: 0px 0px 30px 0px;
+/*Navigation*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+/*Contact Stuff*/
+.contact-stuff {
+   display: inline-block;
    padding: 0px;
-   height: 75px
+   margin: 0px 20px 0px 0px;
+   float: left;
 }
-.middle {
-   display: block;
-   margin: 0px 0px 30px 0px;
-   height: 480px;
-   width: 100%;
-}
+/*Contact Stuff*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+/*Home Tab*/
 .middleleft {
    display: inline;
    width: 25%;
@@ -108,18 +124,33 @@ td {
    margin: 0px;
    padding: 0px;
 }
-.contact {
-   display: block;
-   border-top: 3px solid white;
-   padding: 0px;
-   height: 50px;
+.signoff {
+   text-align: right;
+   background-color: black;
+   z-index: 1;
 }
-.contact-stuff {
-   display: inline-block;
-   padding: 0px;
-   margin: 0px 20px 0px 0px;
-   float: left;
+/*Home Tab*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+/*Team Tab*/
+   
+/*Team Tab*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+/*Gallery Tab*/
+.tablebox {
+   height: 480px;
+   overflow-y: scroll;
+   overflow-x: hidden;
 }
+.galleryitem {
+   margin: 3px;
+}
+/*Gallery Tab*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+/*Music Tab*/
+   
+/*Music Tab*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+/*Updates*/
 .updates {
    padding: auto;
    margin: 5% 20%;
@@ -131,8 +162,5 @@ td {
    margin: 0px;
    padding: 0px;
 }
-.signoff {
-   text-align: right;
-   background-color: black;
-   z-index: 1;
-}
+/*Updates*/
+   /*-----------------------------------------------------------------------------------------------------------*/
