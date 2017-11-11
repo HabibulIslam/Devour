@@ -147,6 +147,12 @@ td {
    float: right;
    margin: 0px 5% 0px 0px;
 }
+.description {
+   display: block;
+   height: 30%;
+   padding: 0%;
+   margin: 1%;
+}
 /*Team Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Gallery Tab*/
