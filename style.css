@@ -1,6 +1,7 @@
 /*Affects All*//*-----------------------------------------------------------------------------------------------------------*/
 * {
    font-family: Arial;
+   border: 1px solid white;
 } 
 body {
    background-image: url("images/DevourLogo.jpg");
