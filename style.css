@@ -38,12 +38,14 @@ td {
 .middle {
    display: block;
    margin: 0px 0px 4% 0px;
+   padding: 0%;
    height: 71%;
    width: 100%;
 }
 .contact {
    display: block;
-   border-top: 0.5em solid white;
+   border-top: 0.3em solid white;
+   margin: 0%;
    padding: 0px;
    height: 10%;
    width:100%;
