@@ -30,14 +30,14 @@ td {
 /*Structure*/
 .first {
    display: block;
-   margin: 0px 0px 4% 0px;
+   margin: 0px 0px 2% 0px;
    padding: 0px;
    height: 11%;
    width: 100%;
 }
 .middle {
    display: block;
-   margin: 0px 0px 4% 0px;
+   margin: 0px 0px 2% 0px;
    padding: 0%;
    height: 69%;
    width: 100%;
