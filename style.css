@@ -159,7 +159,7 @@ td {
    z-index: 1;
    float: right;
    margin: 0px 5% 0px 0px;
-   overflow: scroll;
+   overflow-y: scroll;
 }
 .description {
    display: block;
