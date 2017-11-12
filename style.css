@@ -168,7 +168,14 @@ body {
    margin: 0%;
    padding: 0%;
 }
-
+.middlegallery {
+   display: block;
+   margin: 0px 0px 2% 0px;
+   padding: 0% auto;
+   height: 69%;
+   width: 100%;
+   float: clear;
+}
 /*Gallery Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Music Tab*/
