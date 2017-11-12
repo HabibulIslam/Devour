@@ -156,29 +156,14 @@ body {
 /*Team Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Gallery Tab*/
-.galleryitem {
-   margin: 1%;
-}
-.settable {
-   width: 100%;
-   height: 100%;
-}
-table {
-   width: 100%;
-   height: 100%;
+.galleryimage {
+   height: 20%;
+   width: 20%;
    border-collapse: collapse;
-   overflow-y: scroll;
-   overflow-x: hidden;
-   padding: 0%;
+   padding: 4%;
+   
 }
-td {
-   height: 15%;
-   width: 15%;
-   border: 1% solid white;
-   padding: auto;
-   margin: auto;
-   z-index: 1;
-}
+
 /*Gallery Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Music Tab*/
