@@ -1,7 +1,7 @@
 /*Affects All*//*-----------------------------------------------------------------------------------------------------------*/
 * {
    font-family: Arial;
-   border: 1px solid white;
+   /*border: 1px solid white;*/
 } 
 html {
    height: 100%;
@@ -24,7 +24,7 @@ body {
    padding: 0px;
    height: 11%;
    width: 100%;
-   border: 2px solid green;
+   border-bottom: 0.2em solid white;
    float: clear;
 }
 .middle {
@@ -33,12 +33,11 @@ body {
    padding: 0%;
    height: 69%;
    width: 100%;
-   border: 2px solid blue;
    float: clear;
 }
 .contact {
    display: block;
-   border-top: 0.2em solid red;
+   border-top: 0.2em solid white;
    margin: 0%;
    padding: 0px;
    height: 10%;
