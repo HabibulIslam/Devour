@@ -15,18 +15,6 @@ body {
    z-index: 0;
    height: 100%;
 }
-table {
-   width: 1500px;
-   border-collapse: collapse;
-   overflow-y: scroll;
-   overflow-x: hidden;
-}
-td {
-   height: 250px;
-   width: 250px;
-   border: 1px solid white;
-   padding: 9px;
-}
 /*Affects All*/
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Structure*/
@@ -176,6 +164,18 @@ td {
 }
 .galleryitem {
    margin: 3px;
+}
+table {
+   width: 100%;
+   border-collapse: collapse;
+   overflow-y: scroll;
+   overflow-x: hidden;
+}
+td {
+   height: 15%;
+   width: 15%;
+   border: 0.1em solid white;
+   padding: 0.3em;
 }
 /*Gallery Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
