@@ -161,7 +161,7 @@ body {
    width: 20%;
    border-collapse: collapse;
    padding: 4%;
-   display: inline;
+   display: inline-block;
    margin: 0px;
    
 }
