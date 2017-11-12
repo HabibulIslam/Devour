@@ -158,7 +158,7 @@ body {
 /*Gallery Tab*/
 .galleryimage {
    height: 40%;
-   width: 24%;
+   width: 23%;
    border-collapse: collapse;
    padding: 0%;
    display: inline-block;
@@ -171,7 +171,7 @@ body {
 .middlegallery {
    display: block;
    margin: 0px 0px 2% 0px;
-   padding: 0% 1%;
+   padding: 0% 1% 0% 3%;
    height: 69%;
    width: 100%;
    float: clear;
