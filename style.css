@@ -159,6 +159,7 @@ body {
 /*Gallery Tab*/
 .tablebox {
    height: 100%;
+   width: 100%;
    overflow-y: scroll;
    overflow-x: hidden;
 }
@@ -167,6 +168,7 @@ body {
 }
 table {
    width: 100%;
+   height: 100%;
    border-collapse: collapse;
    overflow-y: scroll;
    overflow-x: hidden;
