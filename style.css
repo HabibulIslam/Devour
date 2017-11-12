@@ -169,15 +169,12 @@ table {
    overflow-x: hidden;
    border: 1px solid red;
 }
-tr {
-   height: 15%;
-   border: 1px solid blue;
-}
 td {
-   height: 15%;
-   width: 15%;
-   border: 0.1em solid white;
-   padding: 0.3em;
+   height: 12%;
+   width: 12%;
+   border: 1% solid white;
+   padding: 1%;
+   margin: 0%;
 }
 /*Gallery Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
