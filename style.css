@@ -163,7 +163,10 @@ body {
    padding: 2%;
    display: inline-block;
    margin: 0px;
-   
+}
+.galleryitem {
+   margin: 0%;
+   padding: 0%;
 }
 
 /*Gallery Tab*/
