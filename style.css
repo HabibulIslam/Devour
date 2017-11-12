@@ -1,7 +1,7 @@
 /*Affects All*//*-----------------------------------------------------------------------------------------------------------*/
 * {
    font-family: Arial;
-   border: 1px solid white;
+   /*border: 1px solid white;*/
 } 
 html {
    height: 100%;
@@ -159,6 +159,7 @@ body {
 /*Gallery Tab*/
 .galleryitem {
    margin: 3px;
+   border: 1px solid green;
 }
 table {
    width: 100%;
@@ -166,9 +167,11 @@ table {
    border-collapse: collapse;
    overflow-y: scroll;
    overflow-x: hidden;
+   border: 1px solid red;
 }
 tr {
    height: 15%;
+   border: 1px solid blue;
 }
 td {
    height: 15%;
