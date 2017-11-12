@@ -157,12 +157,6 @@ body {
 /*Team Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Gallery Tab*/
-.tablebox {
-   height: 100%;
-   width: 100%;
-   overflow-y: scroll;
-   overflow-x: hidden;
-}
 .galleryitem {
    margin: 3px;
 }
@@ -172,6 +166,9 @@ table {
    border-collapse: collapse;
    overflow-y: scroll;
    overflow-x: hidden;
+}
+tr {
+   height: 15%;
 }
 td {
    height: 15%;
