@@ -165,20 +165,13 @@ table {
    border-collapse: collapse;
    overflow-y: scroll;
    overflow-x: hidden;
-   border: 1px solid red;
-   padding: 0%;
-}
-tr {
-   height: 15%;
-   width: 100%;
-   margin: 0%;
    padding: 0%;
 }
 td {
    height: 15%;
    width: 15%;
    border: 1% solid white;
-   padding: 1%;
+   padding: 0%;
    margin: 0%;
 }
 /*Gallery Tab*/
