@@ -159,7 +159,6 @@ body {
 /*Gallery Tab*/
 .galleryitem {
    margin: 1%;
-   border: 1px solid green;
 }
 table {
    width: 100%;
@@ -168,12 +167,20 @@ table {
    overflow-y: scroll;
    overflow-x: hidden;
    border: 1px solid red;
+   padding: 0%;
+}
+tr {
+   height: 15%;
+   width: 100%;
+   margin: 0%;
+   padding: 0%;
 }
 td {
-   height: 12%;
-   width: 12%;
+   height: 15%;
+   width: 15%;
    border: 1% solid white;
    padding: 1%;
+   margin: 0%;
 }
 /*Gallery Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
