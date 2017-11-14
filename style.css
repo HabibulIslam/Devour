@@ -163,13 +163,11 @@ body {
    padding: 0px;
    display: inline-block;
    margin: 0px;
-   border: 1px solid yellow;
    text-aling: center;
 }
 .galleryitem {
    margin: 0%;
    padding: 0%;
-   border: 2px solid blue;
    position: relative;
    top: 1%;
    left: 1%;
@@ -182,7 +180,6 @@ body {
    width: 100%;
    float: clear;
    overflow-y: scroll;
-   border: 1px solid red;
 }
 .galleryimage img {
    padding: 0px;
