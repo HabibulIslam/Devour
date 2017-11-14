@@ -166,7 +166,7 @@ body {
 }
 .galleryitem {
    margin: 0%;
-   padding: 0%;
+   padding: 0% auto;
 }
 .middlegallery {
    display: block;
