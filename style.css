@@ -118,7 +118,7 @@ body {
 }
 .hometext-paragraph {
    display: block;
-   text-indent: 2em;
+   text-indent: 2rem;
    background-color: black;
    z-index: 1;
    margin: 0px;
@@ -194,6 +194,9 @@ body {
 .updates p {
    margin: 0px;
    padding: 0px;
+}
+.updatesparagraph {
+   text-indent: 2rem;
 }
 /*Updates*/
    /*-----------------------------------------------------------------------------------------------------------*/
