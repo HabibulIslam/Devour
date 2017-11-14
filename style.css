@@ -163,10 +163,12 @@ body {
    padding: 0%;
    display: inline-block;
    margin: 0px;
+   border: 1px solid yellow;
 }
 .galleryitem {
    margin: 0%;
    padding: 0% auto;
+   border: 1px solid blue;
 }
 .middlegallery {
    display: block;
@@ -176,6 +178,8 @@ body {
    width: 100%;
    float: clear;
    overflow-y: scroll;
+   border: 1px solid red;
+  
 }
 /*Gallery Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
