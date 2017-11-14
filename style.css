@@ -160,7 +160,7 @@ body {
    height: 50%;
    width: 24%;
    border-collapse: collapse;
-   padding: auto;
+   padding: 2.5%;
    display: inline-block;
    margin: 0px;
    border: 1px solid yellow;
@@ -180,7 +180,10 @@ body {
    float: clear;
    overflow-y: scroll;
    border: 1px solid red;
-  
+}
+.galleryimage img {
+   padding: 0px;
+   margin: 0px;
 }
 /*Gallery Tab*/
    /*-----------------------------------------------------------------------------------------------------------*/
