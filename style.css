@@ -160,7 +160,7 @@ body {
    height: 50%;
    width: 24%;
    border-collapse: collapse;
-   padding: 2.5%;
+   padding: 0px;
    display: inline-block;
    margin: 0px;
    border: 1px solid yellow;
@@ -170,6 +170,9 @@ body {
    margin: 0%;
    padding: 0%;
    border: 2px solid blue;
+   position: relative;
+   top: 1%;
+   left: 1%;
 }
 .middlegallery {
    display: block;
