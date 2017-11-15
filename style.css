@@ -49,6 +49,7 @@ body {
 /*Navigation*/
 .nav {
    position: relative;
+   left: 20%;
 }
 .navigation {
    list-style-type: none;
