@@ -48,8 +48,10 @@ body {
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Navigation*/
 .nav {
-   position: relative;
-   left: 20%;
+  
+}
+.navbox {
+   float: right;
 }
 .navigation {
    list-style-type: none;
