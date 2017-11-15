@@ -64,7 +64,7 @@ body {
 }
 .navigation li {
    display: inline-block;
-   margin: 0px 5%;
+   margin: 0px 2%;
    padding: 0px;
 }
 .navigation li a {
