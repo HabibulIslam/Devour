@@ -51,6 +51,7 @@ body {
    list-style-type: none;
    margin: 0px;
    padding: 0px;
+   height: 100%;
    border-bottom-color: white;
    border-bottom-width: 3px;
    border-bottom-style: solid;
@@ -61,17 +62,20 @@ body {
    height: 100%;
    margin: 0px;
    padding 0px;
+   height: 100%;
 }
-.navigation li {
+.navigation ul li {
    display: inline-block;
    margin: 0px 2%;
    padding: 0px;
+   height: 100%;
 }
-.navigation li a {
+.navigation ul li a {
    padding: 0px;
    margin: 0px;
+   height: 100%;
 }
-.navigation li a img {
+.navigation ul li a img {
    padding: 0px;
    margin: 0px;
 }
