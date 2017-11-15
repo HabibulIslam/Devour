@@ -48,7 +48,7 @@ body {
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Navigation*/
 .nav {
-   float: right;
+   position: relative;
 }
 .navigation {
    list-style-type: none;
