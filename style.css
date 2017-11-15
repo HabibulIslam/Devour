@@ -48,10 +48,13 @@ body {
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Navigation*/
 .nav {
-  
+   padding: 0%;
+   margin: 0%;
 }
 .navbox {
    float: right;
+   padding: 0%;
+   margin: 0%;
 }
 .navigation {
    list-style-type: none;
