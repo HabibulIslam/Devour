@@ -58,6 +58,8 @@ body {
    margin: 0%;
    height: 100%;
    width: 60%;
+   background-color: black;
+   z-index: 1;
 }
 .navigation {
    list-style-type: none;
