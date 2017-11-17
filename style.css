@@ -70,44 +70,6 @@ body {
    width: 20%;
    height: 100%;
 }
-.navigation {
-   list-style-type: none;
-   margin: 0px;
-   padding: 0px;
-   height: 100%;
-   border-bottom-color: white;
-   border-bottom-width: 3px;
-   border-bottom-style: solid;
-   background-color: black;
-   z-index: 1;
-}
-.navigation ul {
-   height: 100%;
-   margin: 0px;
-   padding: 0px;
-   height: 100%;
-}
-.navigation ul li {
-   display: inline-block;
-   margin: 0px 2%;
-   padding: 0px;
-   height: 100%;
-}
-.navigation ul li a {
-   padding: 0px;
-   margin: 0px;
-   height: 100%;
-}
-.navigation ul li a img {
-   padding: 0px;
-   margin: 0px;
-}
-.navitem {
-   float: right;
-}
-.logo {
-   float: left;
-}
 /*Navigation*/
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Contact Stuff*/
