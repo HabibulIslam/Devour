@@ -72,6 +72,9 @@ p, .description {
    display: inline-block;
    width: 20%;
    height: 100%;
+   padding: 0%;
+   margin: 0%;
+   font-size: 1rem;
 }
 /*Navigation*/
    /*-----------------------------------------------------------------------------------------------------------*/
