@@ -186,8 +186,10 @@ p, .description {
    /*-----------------------------------------------------------------------------------------------------------*/
 /*Updates*/
 .updates {
-   padding: auto;
-   margin: 5% 20%;
+   height: 90%;
+   margin: auto 20%;
+   padding: 0px 0px;
+   padding: ;
    background-color: black;
    overflow-y: scroll;
    z-index: 1;
@@ -195,8 +197,6 @@ p, .description {
 .updates p {
    margin: 0px;
    padding: 0px;
-}
-.updatesparagraph {
    text-indent: 2rem;
 }
 /*Updates*/
