@@ -188,7 +188,7 @@ p, .description {
 .updates {
    height: 90%;
    margin: auto 20%;
-   padding: 0px 0px;
+   padding: 0px;
    padding: ;
    background-color: black;
    overflow-y: scroll;
