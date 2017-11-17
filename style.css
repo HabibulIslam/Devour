@@ -26,6 +26,8 @@ body {
    width: 100%;
    border-bottom: 0.2em solid white;
    clear: both;
+   background-color: black;
+   z-index: 1;
 }
 .middle {
    display: block;
