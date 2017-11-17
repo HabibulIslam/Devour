@@ -38,13 +38,14 @@ body {
    clear: both;
 }
 .contact {
-   display: inline;
+   display: block;
    border-top: 0.2em solid white;
    margin: 1% 0% 0% 0%;
    padding: 0px;
    height: 10%;
    width:100%;
    clear: both;
+   z-index: 1;
 }
 /*Structure*/
    /*-----------------------------------------------------------------------------------------------------------*/
