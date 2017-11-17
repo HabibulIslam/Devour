@@ -62,7 +62,8 @@ body {
    z-index: 1;
 }
 .letsgo {
-    
+   width: 20%;
+   height: 100%;
 }
 .navigation {
    list-style-type: none;
