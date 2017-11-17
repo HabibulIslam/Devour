@@ -1,7 +1,7 @@
 /*Affects All*//*-----------------------------------------------------------------------------------------------------------*/
 * {
    font-family: Arial;
-   /*border: 1px solid white;*/
+   border: 1px solid white;
 } 
 html {
    height: 100%;
@@ -53,7 +53,6 @@ body {
    width: 25%;
 }
 .navbox {
-   display: inline-block;
    float: right;
    padding: 0%;
    margin: 0%;
@@ -61,6 +60,9 @@ body {
    width: 60%;
    background-color: black;
    z-index: 1;
+}
+.letsgo {
+    
 }
 .navigation {
    list-style-type: none;
