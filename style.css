@@ -53,6 +53,7 @@ body {
    width: 25%;
 }
 .navbox {
+   display: inline-block;
    float: right;
    padding: 0%;
    margin: 0%;
